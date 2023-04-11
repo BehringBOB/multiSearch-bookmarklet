@@ -5,16 +5,17 @@
 <br>
 
 
-<p align="center">
+<p style="text-align: center;">
 <img src="assets/multiSearch.gif" width="80%" style="margin:0 0 20px 20px">
 </p>
 
-<p style="text-align: center; font-weight:bold;" dir="auto">
+<p style="text-align: center; font-weight:bold;">
     <a href="#The/my-issue">The/my issue</a> •
     <a href="#The-bookmarklet">The Bookmarklet</a> •
     <a href="#How-to-use-it">How to use it</a> •
-    <a href="#How-to-adjust/customize">How to adjust/customize</a> •
+    <a href="#How-to-adjust/customize">How to adjust/customize</a>
 </p>
+
 <br>
 <hr>
 
