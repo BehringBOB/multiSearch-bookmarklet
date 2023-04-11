@@ -2,8 +2,6 @@
 
 > A browser bookmarklet, that allows to easily search multiple searchengines/websites.
 
-![multiSearch](assets/multiSearch.gif | width=300)
-
 <hr>
 
 1. [The/my issue](#The/my-issue)
